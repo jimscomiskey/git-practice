@@ -1,0 +1,254 @@
+Loc_Name,Park,Park_Code,State_MMI,Stream_Name,Gradient,Ecoregion,Unit_Code,State_MMI.1,Stream_Gradient,variable,mean,se,N
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Epifaunal Substrate,17,0,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Embeddedness,9,1,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Velocity Depth Regime,16.5,0.5,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Sediment Deposition,8.5,1.5,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Channel Flow Status,15,0,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Channel Alteration,16,0,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Riffle frequency,11.5,0.5,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Vegetation,14,1,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Bank Stability,13.5,2.5,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Riparian Veg Zone,17.5,0.5,2
+APCO_01,Appomattox Courthouse NHP,APCO,VSCI,Appomattox River,High gradient,Piedmont,APCO,VSCI,High,Total Score,138.5,6.5,2
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Epifaunal Substrate,18.16666667,0.401386486,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Embeddedness,16.16666667,0.703167437,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Velocity Depth Regime,13.83333333,0.307318149,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Sediment Deposition,17.33333333,0.666666667,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Channel Flow Status,18.5,0.562731434,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Channel Alteration,20,0,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Riffle frequency,18.5,0.428174419,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Vegetation,18.66666667,0.421637021,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Bank Stability,18.5,0.341565026,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Riparian Veg Zone,20,0,6
+APCO_02,Appomattox Courthouse NHP,APCO,VSCI,Plain Run,High gradient,Piedmont,APCO,VSCI,High,Total Score,179.6666667,3.105550586,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Epifaunal Substrate,15,0.632455532,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Embeddedness,10.33333333,1.960725489,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Velocity Depth Regime,12,0.966091783,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Sediment Deposition,8.5,0.921954446,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Channel Flow Status,14.16666667,0.792324288,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Channel Alteration,18.66666667,0.557773351,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Riffle frequency,15.83333333,1.108051343,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Vegetation,14.33333333,0.918936583,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Bank Stability,10.16666667,0.654047229,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Riparian Veg Zone,19.66666667,0.333333333,6
+BOWA_02,Booker T. Washington,BOWA,VSCI,Jack-O-Lantern Branch,High gradient,Piedmont,BOWA,VSCI,High,Total Score,138.6666667,4.152643067,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Epifaunal Substrate,12.66666667,0.557773351,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Embeddedness,11.5,0.991631652,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Velocity Depth Regime,16,0.683130051,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Sediment Deposition,7.666666667,0.76011695,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Channel Flow Status,15.16666667,1.137736544,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Channel Alteration,17,0.632455532,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Riffle frequency,13.83333333,1.301708279,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Vegetation,13,0.683130051,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Bank Stability,10.33333333,0.421637021,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Riparian Veg Zone,14,0.516397779,6
+BOWA_04,Booker T. Washington,BOWA,VSCI,Gills Creek,High gradient,Piedmont,BOWA,VSCI,High,Total Score,131.1666667,6.77946245,6
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Epifaunal Substrate,14.28571429,0.746875578,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Embeddedness,12.85714286,1.010152545,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Velocity Depth Regime,12.42857143,0.972408469,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Sediment Deposition,11,1.573591585,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Channel Flow Status,14.85714286,0.594761714,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Channel Alteration,18.57142857,1.26974206,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Riffle frequency,15,0.723746864,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Vegetation,14.28571429,1.016864595,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Bank Stability,14.14285714,0.828899771,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Riparian Veg Zone,19.14285714,0.594761714,7
+FRSP_01,Fredericksburg Spotsylvania MP,FRSP,VSCI,Lewis Run,High gradient,Piedmont,FRSP,VSCI,High,Total Score,146.5714286,4.834681961,7
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Epifaunal Substrate,9.5,0.5,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Embeddedness,9.5,0.5,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Velocity Depth Regime,10.5,0.5,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Sediment Deposition,11.5,0.5,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Channel Flow Status,11.5,0.5,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Channel Alteration,18.5,0.5,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Riffle frequency,10.5,0.5,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Vegetation,13,1,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Bank Stability,11,1,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Riparian Veg Zone,18,0,2
+FRSP_06,Fredericksburg Spotsylvania MP,FRSP,VSCI,Deep Run,High gradient,Piedmont,FRSP,VSCI,High,Total Score,123.5,5.5,2
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Epifaunal Substrate,12.85714286,0.670059394,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Embeddedness,13.14285714,0.961857613,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Velocity Depth Regime,14.85714286,1.668026656,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Sediment Deposition,8.428571429,1.428571429,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Channel Flow Status,10.57142857,1.043281062,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Channel Alteration,14.14285714,0.704697552,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Riffle frequency,13.71428571,0.521640531,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Vegetation,9.714285714,1.304101327,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Bank Stability,9,0.723746864,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Riparian Veg Zone,14.85714286,0.459221465,7
+FRSP_08,Fredericksburg Spotsylvania MP,FRSP,VSCI,Hazel Run,High gradient,Piedmont,FRSP,VSCI,High,Total Score,121.2857143,5.263143573,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Epifaunal Substrate,11.71428571,0.644178536,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Embeddedness,10.42857143,1.130889723,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Velocity Depth Regime,12.57142857,0.8123201,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Sediment Deposition,7.571428571,0.895947034,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Channel Flow Status,13.28571429,1.10656667,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Channel Alteration,19.71428571,0.285714286,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Riffle frequency,12.28571429,0.968904283,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Vegetation,17.42857143,0.368855557,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Bank Stability,16.14285714,0.704697552,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Riparian Veg Zone,20,0,7
+FRSP_13,Fredericksburg Spotsylvania MP,FRSP,VSCI,Burnside Creek,High gradient,Piedmont,FRSP,VSCI,High,Total Score,141.1428571,4.641574915,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Epifaunal Substrate,14.42857143,0.649437224,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Embeddedness,15.14285714,0.704697552,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Velocity Depth Regime,13.28571429,1.189523428,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Sediment Deposition,14,1,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Channel Flow Status,16.28571429,0.644178536,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Channel Alteration,20,0,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Riffle frequency,15.42857143,0.868966076,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Vegetation,17.85714286,0.459221465,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Bank Stability,17.42857143,0.297380857,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Riparian Veg Zone,20,0,7
+FRSP_17,Fredericksburg Spotsylvania MP,FRSP,VSCI,Brock Run,High gradient,Piedmont,FRSP,VSCI,High,Total Score,163.8571429,4.188581823,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Epifaunal Substrate,13,0.975900073,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Embeddedness,15.14285714,0.34006802,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Velocity Depth Regime,13,1.154700538,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Sediment Deposition,16.42857143,0.649437224,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Channel Flow Status,15.28571429,0.865042958,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Channel Alteration,19,0.690065559,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Riffle frequency,14.71428571,0.606091527,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Vegetation,17,0.6172134,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Bank Stability,17,0.43643578,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Riparian Veg Zone,18.57142857,0.428571429,7
+GETT_01,Gettsyburg,GETT,PRRIBI,Willoughby Run (Upper),High gradient,Northern Piedmont,GETT,PRRIBI,High,Total Score,159.1428571,3.501214561,7
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Epifaunal Substrate,9.5,1.5,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Embeddedness,10.5,0.5,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Velocity Depth Regime,8.5,2.5,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Sediment Deposition,9.5,3.5,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Channel Flow Status,12.5,2.5,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Channel Alteration,20,0,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Riffle frequency,13.5,3.5,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Vegetation,15,3,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Bank Stability,12,2,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Riparian Veg Zone,6,2,2
+GETT_02,Gettsyburg,GETT,PRRIBI,Stevens Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Total Score,117,13,2
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Epifaunal Substrate,11.83333333,0.600925213,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Pool Substrate,15,0.632455532,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Pool Variability,14.5,1.335415042,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Sediment Deposition,16,0.632455532,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Channel Flow Status,16.83333333,0.872416822,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Channel Alteration,19.83333333,0.166666667,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Channel Sinuosity,9,1.238278375,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Vegetation,15,1.341640786,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Bank Stability,17,0.856348839,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Riparian Veg Zone,12.83333333,0.749073502,6
+GETT_04,Eisenhower,EISE,PMHIBI,Willoughby Run (Lower),Low gradient,Northern Piedmont Low gradient,GETT,PMHIBI,Low,Total Score,147.8333333,5.850451075,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Epifaunal Substrate,12.83333333,0.401386486,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Embeddedness,8.166666667,1.301708279,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Velocity Depth Regime,16.16666667,0.872416822,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Sediment Deposition,9.833333333,0.600925213,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Channel Flow Status,11.16666667,0.600925213,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Channel Alteration,15.5,1.310216267,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Riffle frequency,14.66666667,1.021980648,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Vegetation,12.83333333,0.401386486,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Bank Stability,11.16666667,0.477260702,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Riparian Veg Zone,16.83333333,0.654047229,6
+GETT_06,Gettsyburg,GETT,PRRIBI,Rock Creek,High gradient,Northern Piedmont,GETT,PRRIBI,High,Total Score,129.1666667,2.414079074,6
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Epifaunal Substrate,17.85714286,0.260820265,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Embeddedness,17.14285714,0.508432298,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Velocity Depth Regime,14.85714286,0.670059394,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Sediment Deposition,17.42857143,0.202030509,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Channel Flow Status,16.42857143,0.528120786,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Channel Alteration,19.85714286,0.142857143,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Riffle frequency,17.14285714,1.078547776,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Vegetation,18,0.899735411,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Bank Stability,18.42857143,0.297380857,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Riparian Veg Zone,20,0,7
+GETT_07,Gettsyburg,GETT,PRRIBI,Plum Run,High gradient,Northern Piedmont,GETT,PRRIBI,High,Total Score,177.1428571,2.857142857,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Epifaunal Substrate,15.14285714,0.857142857,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Embeddedness,15.14285714,0.404061018,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Velocity Depth Regime,16.28571429,0.944010838,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Sediment Deposition,14.42857143,0.649437224,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Channel Flow Status,16.57142857,0.685118789,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Channel Alteration,20,0,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Riffle frequency,14.57142857,0.895947034,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Vegetation,16,0.755928946,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Bank Stability,15.57142857,0.528120786,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Riparian Veg Zone,19.57142857,0.428571429,7
+HOFU_01,Hopewell Furnace,HOFU,PRRIBI,French Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Total Score,163.2857143,4.195883957,7
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Epifaunal Substrate,14.8,0.969535971,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Embeddedness,15,0.547722558,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Velocity Depth Regime,16.2,0.734846923,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Sediment Deposition,14.2,0.583095189,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Channel Flow Status,16,0.547722558,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Channel Alteration,19.4,0.6,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Riffle frequency,14.6,0.509901951,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Vegetation,16.8,0.8,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Bank Stability,15.2,0.583095189,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Riparian Veg Zone,20,0,5
+HOFU_02,Hopewell Furnace,HOFU,PRRIBI,Baptism Creek,High gradient,Northern Piedmont,HOFU,PRRIBI,High,Total Score,162.2,3.120897307,5
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Epifaunal Substrate,10.14285714,0.508432298,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Pool Substrate,7.571428571,0.996592835,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Pool Variability,8.428571429,1.360272082,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Sediment Deposition,7,0.690065559,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Channel Flow Status,11.14285714,0.828899771,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Channel Alteration,17.14285714,0.633530224,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Channel Sinuosity,13.42857143,1.306706927,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Vegetation,10.28571429,0.521640531,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Bank Stability,10.14285714,0.704697552,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Riparian Veg Zone,15,0.654653671,7
+PETE_03,Petersburg Battlefield MP,PETE,CPMI,Harrison Creek,Low gradient,Coastal,PETE,CPMI,Low,Total Score,110.2857143,6.457606389,7
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Epifaunal Substrate,15,0.730296743,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Pool Substrate,15,0.632455532,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Pool Variability,16.33333333,0.210818511,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Sediment Deposition,16.83333333,0.600925213,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Channel Flow Status,18.16666667,0.401386486,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Channel Alteration,20,0,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Channel Sinuosity,18,1.632993162,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Vegetation,20,0,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Bank Stability,20,0,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Riparian Veg Zone,20,0,6
+PETE_10,Petersburg Battlefield MP,PETE,CPMI,Gravelly Brook,Low gradient,Coastal,PETE,CPMI,Low,Total Score,179.3333333,2.905932629,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Epifaunal Substrate,9.333333333,0.954521404,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Pool Substrate,9.333333333,0.666666667,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Pool Variability,9.333333333,0.494413232,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Sediment Deposition,4.333333333,0.802772972,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Channel Flow Status,9,1.861898673,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Channel Alteration,17.83333333,0.654047229,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Channel Sinuosity,16,1.125462868,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Vegetation,12.66666667,1.406334874,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Bank Stability,10.66666667,0.954521404,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Riparian Veg Zone,19.33333333,0.421637021,6
+RICH_02,Richmond Battlefield MP,RICH,CPMI,Trib. of Chickahominy River,Low gradient,Coastal,RICH,CPMI,Low,Total Score,117.8333333,7.286593473,6
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Epifaunal Substrate,13,0.40824829,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Pool Substrate,12.75,0.25,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Pool Variability,14.25,0.478713554,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Sediment Deposition,12.5,0.645497224,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Channel Flow Status,12.5,0.645497224,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Channel Alteration,20,0,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Channel Sinuosity,16,0.707106781,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Vegetation,14.25,0.853912564,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Bank Stability,15.75,1.31497782,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Riparian Veg Zone,19.25,0.478713554,4
+RICH_03,Richmond Battlefield MP,RICH,CPMI,Boatswain Creek,Low gradient,Coastal,RICH,CPMI,Low,Total Score,150.25,4.479118217,4
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Epifaunal Substrate,15.33333333,0.494413232,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Pool Substrate,14.16666667,0.401386486,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Pool Variability,13.16666667,1.013793755,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Sediment Deposition,15,1.316561177,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Channel Flow Status,17.5,0.718795288,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Channel Alteration,20,0,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Channel Sinuosity,18.33333333,0.666666667,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Vegetation,19.33333333,0.421637021,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Bank Stability,18.66666667,0.843274043,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Riparian Veg Zone,20,0,6
+RICH_04,Richmond Battlefield MP,RICH,CPMI,Bloody Run,Low gradient,Coastal,RICH,CPMI,Low,Total Score,171.5,5.123475383,6
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Epifaunal Substrate,15.71428571,0.285714286,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Pool Substrate,14.14285714,0.508432298,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Pool Variability,14.42857143,0.480928807,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Sediment Deposition,12.85714286,0.594761714,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Channel Flow Status,15.42857143,0.649437224,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Channel Alteration,18.85714286,1.142857143,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Channel Sinuosity,14.28571429,1.062662553,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Vegetation,14.14285714,1.03345402,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Bank Stability,12.85714286,1.078547776,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Riparian Veg Zone,15.85714286,0.884484553,7
+RICH_05,Richmond Battlefield MP,RICH,CPMI,Totopotomy Creek,Low gradient,Coastal,RICH,CPMI,Low,Total Score,148.5714286,4.292058796,7
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Epifaunal Substrate,7.5,0.5,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Pool Substrate,13.5,0.5,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Pool Variability,10.5,0.5,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Sediment Deposition,11.5,0.5,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Channel Flow Status,12.5,0.5,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Channel Alteration,17.5,1.5,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Channel Sinuosity,13,0,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Vegetation,16,2,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Bank Stability,16,2,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Riparian Veg Zone,18,0,2
+RICH_07,Richmond Battlefield MP,RICH,CPMI,Western Run,Low gradient,Coastal,RICH,CPMI,Low,Total Score,136,0,2

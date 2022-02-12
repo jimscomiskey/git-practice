@@ -1,0 +1,323 @@
+clusters,Plot_Number,names,order
+1,1,Oak Hickory,2
+1,2,Oak Hickory,2
+3,3,White Oak,1
+4,4,Mixed,8
+5,5,Tulip Poplar,3
+6,6,Virginia Pine,6
+7,7,Loblolly Pine,7
+1,8,Oak Hickory,2
+1,9,Oak Hickory,2
+5,10,Tulip Poplar,3
+4,11,Mixed,8
+5,12,Tulip Poplar,3
+6,13,Virginia Pine,6
+1,14,Oak Hickory,2
+5,15,Tulip Poplar,3
+7,16,Loblolly Pine,7
+5,17,Tulip Poplar,3
+5,18,Tulip Poplar,3
+5,19,Tulip Poplar,3
+5,20,Tulip Poplar,3
+21,21,Sweetgum,4
+21,22,Sweetgum,4
+7,23,Loblolly Pine,7
+7,24,Loblolly Pine,7
+21,25,Sweetgum,4
+7,26,Loblolly Pine,7
+7,27,Loblolly Pine,7
+3,28,White Oak,1
+29,29,White Ash,5
+5,30,Tulip Poplar,3
+3,31,White Oak,1
+1,32,Oak Hickory,2
+1,33,Oak Hickory,2
+1,34,Oak Hickory,2
+1,35,Oak Hickory,2
+5,36,Tulip Poplar,3
+5,37,Tulip Poplar,3
+5,38,Tulip Poplar,3
+29,39,White Ash,5
+29,40,White Ash,5
+5,41,Tulip Poplar,3
+29,42,White Ash,5
+6,43,Virginia Pine,6
+3,44,White Oak,1
+5,45,Tulip Poplar,3
+21,46,Sweetgum,4
+3,47,White Oak,1
+1,48,Oak Hickory,2
+3,49,White Oak,1
+5,50,Tulip Poplar,3
+5,51,Tulip Poplar,3
+4,52,Mixed,8
+5,53,Tulip Poplar,3
+4,54,Mixed,8
+1,55,Oak Hickory,2
+3,56,White Oak,1
+6,57,Virginia Pine,6
+5,58,Tulip Poplar,3
+1,59,Oak Hickory,2
+5,60,Tulip Poplar,3
+1,61,Oak Hickory,2
+1,62,Oak Hickory,2
+21,63,Sweetgum,4
+5,64,Tulip Poplar,3
+7,65,Loblolly Pine,7
+3,66,White Oak,1
+1,67,Oak Hickory,2
+7,68,Loblolly Pine,7
+7,69,Loblolly Pine,7
+7,70,Loblolly Pine,7
+3,71,White Oak,1
+5,72,Tulip Poplar,3
+21,73,Sweetgum,4
+3,74,White Oak,1
+1,75,Oak Hickory,2
+1,76,Oak Hickory,2
+1,77,Oak Hickory,2
+5,78,Tulip Poplar,3
+4,79,Mixed,8
+5,80,Tulip Poplar,3
+5,81,Tulip Poplar,3
+4,82,Mixed,8
+5,83,Tulip Poplar,3
+5,84,Tulip Poplar,3
+1,85,Oak Hickory,2
+5,86,Tulip Poplar,3
+1,87,Oak Hickory,2
+1,89,Oak Hickory,2
+4,90,Mixed,8
+1,91,Oak Hickory,2
+1,92,Oak Hickory,2
+4,93,Mixed,8
+5,94,Tulip Poplar,3
+5,95,Tulip Poplar,3
+1,96,Oak Hickory,2
+4,97,Mixed,8
+5,98,Tulip Poplar,3
+5,99,Tulip Poplar,3
+4,100,Mixed,8
+5,101,Tulip Poplar,3
+5,102,Tulip Poplar,3
+7,103,Loblolly Pine,7
+7,104,Loblolly Pine,7
+7,105,Loblolly Pine,7
+1,106,Oak Hickory,2
+6,107,Virginia Pine,6
+5,108,Tulip Poplar,3
+7,109,Loblolly Pine,7
+7,110,Loblolly Pine,7
+5,111,Tulip Poplar,3
+5,112,Tulip Poplar,3
+4,113,Mixed,8
+3,114,White Oak,1
+1,115,Oak Hickory,2
+3,116,White Oak,1
+21,117,Sweetgum,4
+4,118,Mixed,8
+6,119,Virginia Pine,6
+4,120,Mixed,8
+3,121,White Oak,1
+1,122,Oak Hickory,2
+1,123,Oak Hickory,2
+1,124,Oak Hickory,2
+3,125,White Oak,1
+1,126,Oak Hickory,2
+3,127,White Oak,1
+1,128,Oak Hickory,2
+5,129,Tulip Poplar,3
+5,130,Tulip Poplar,3
+5,131,Tulip Poplar,3
+5,132,Tulip Poplar,3
+7,133,Loblolly Pine,7
+1,134,Oak Hickory,2
+7,135,Loblolly Pine,7
+21,136,Sweetgum,4
+21,137,Sweetgum,4
+4,138,Mixed,8
+7,139,Loblolly Pine,7
+1,140,Oak Hickory,2
+21,141,Sweetgum,4
+5,142,Tulip Poplar,3
+21,143,Sweetgum,4
+7,144,Loblolly Pine,7
+1,145,Oak Hickory,2
+3,146,White Oak,1
+3,147,White Oak,1
+21,148,Sweetgum,4
+1,149,Oak Hickory,2
+5,150,Tulip Poplar,3
+3,151,White Oak,1
+3,152,White Oak,1
+3,153,White Oak,1
+1,154,Oak Hickory,2
+21,155,Sweetgum,4
+29,156,White Ash,5
+5,157,Tulip Poplar,3
+5,158,Tulip Poplar,3
+29,159,White Ash,5
+29,160,White Ash,5
+3,161,White Oak,1
+5,162,Tulip Poplar,3
+5,163,Tulip Poplar,3
+5,164,Tulip Poplar,3
+5,165,Tulip Poplar,3
+5,166,Tulip Poplar,3
+1,167,Oak Hickory,2
+5,168,Tulip Poplar,3
+5,169,Tulip Poplar,3
+1,170,Oak Hickory,2
+1,171,Oak Hickory,2
+7,172,Loblolly Pine,7
+3,173,White Oak,1
+29,174,White Ash,5
+5,175,Tulip Poplar,3
+5,176,Tulip Poplar,3
+5,177,Tulip Poplar,3
+5,178,Tulip Poplar,3
+1,179,Oak Hickory,2
+5,180,Tulip Poplar,3
+1,181,Oak Hickory,2
+5,182,Tulip Poplar,3
+5,183,Tulip Poplar,3
+6,184,Virginia Pine,6
+7,185,Loblolly Pine,7
+7,186,Loblolly Pine,7
+6,187,Virginia Pine,6
+3,188,White Oak,1
+7,189,Loblolly Pine,7
+5,190,Tulip Poplar,3
+5,191,Tulip Poplar,3
+7,192,Loblolly Pine,7
+7,193,Loblolly Pine,7
+7,194,Loblolly Pine,7
+7,195,Loblolly Pine,7
+7,196,Loblolly Pine,7
+3,197,White Oak,1
+3,198,White Oak,1
+21,199,Sweetgum,4
+3,200,White Oak,1
+5,201,Tulip Poplar,3
+1,202,Oak Hickory,2
+5,203,Tulip Poplar,3
+3,204,White Oak,1
+3,205,White Oak,1
+1,206,Oak Hickory,2
+5,207,Tulip Poplar,3
+5,208,Tulip Poplar,3
+1,209,Oak Hickory,2
+1,210,Oak Hickory,2
+1,211,Oak Hickory,2
+5,212,Tulip Poplar,3
+3,213,White Oak,1
+7,214,Loblolly Pine,7
+5,215,Tulip Poplar,3
+5,216,Tulip Poplar,3
+5,217,Tulip Poplar,3
+7,218,Loblolly Pine,7
+21,219,Sweetgum,4
+1,220,Oak Hickory,2
+3,221,White Oak,1
+5,222,Tulip Poplar,3
+3,223,White Oak,1
+5,224,Tulip Poplar,3
+6,225,Virginia Pine,6
+5,226,Tulip Poplar,3
+5,227,Tulip Poplar,3
+3,228,White Oak,1
+4,229,Mixed,8
+21,230,Sweetgum,4
+5,231,Tulip Poplar,3
+7,232,Loblolly Pine,7
+21,233,Sweetgum,4
+1,234,Oak Hickory,2
+3,235,White Oak,1
+5,236,Tulip Poplar,3
+1,237,Oak Hickory,2
+5,238,Tulip Poplar,3
+1,240,Oak Hickory,2
+5,241,Tulip Poplar,3
+5,242,Tulip Poplar,3
+4,243,Mixed,8
+5,244,Tulip Poplar,3
+5,245,Tulip Poplar,3
+5,246,Tulip Poplar,3
+4,247,Mixed,8
+1,248,Oak Hickory,2
+5,249,Tulip Poplar,3
+5,251,Tulip Poplar,3
+4,252,Mixed,8
+1,253,Oak Hickory,2
+1,254,Oak Hickory,2
+4,255,Mixed,8
+4,256,Mixed,8
+4,257,Mixed,8
+5,258,Tulip Poplar,3
+1,259,Oak Hickory,2
+1,260,Oak Hickory,2
+5,261,Tulip Poplar,3
+5,262,Tulip Poplar,3
+5,263,Tulip Poplar,3
+5,264,Tulip Poplar,3
+5,265,Tulip Poplar,3
+4,266,Mixed,8
+1,267,Oak Hickory,2
+4,268,Mixed,8
+7,269,Loblolly Pine,7
+7,270,Loblolly Pine,7
+7,271,Loblolly Pine,7
+1,272,Oak Hickory,2
+3,273,White Oak,1
+1,274,Oak Hickory,2
+3,275,White Oak,1
+1,276,Oak Hickory,2
+21,277,Sweetgum,4
+3,278,White Oak,1
+1,279,Oak Hickory,2
+1,280,Oak Hickory,2
+5,281,Tulip Poplar,3
+5,282,Tulip Poplar,3
+1,283,Oak Hickory,2
+1,284,Oak Hickory,2
+1,285,Oak Hickory,2
+1,286,Oak Hickory,2
+3,287,White Oak,1
+1,288,Oak Hickory,2
+6,289,Virginia Pine,6
+21,290,Sweetgum,4
+5,291,Tulip Poplar,3
+5,292,Tulip Poplar,3
+21,293,Sweetgum,4
+21,294,Sweetgum,4
+5,295,Tulip Poplar,3
+21,296,Sweetgum,4
+21,297,Sweetgum,4
+5,298,Tulip Poplar,3
+7,299,Loblolly Pine,7
+21,300,Sweetgum,4
+3,301,White Oak,1
+7,302,Loblolly Pine,7
+21,303,Sweetgum,4
+3,304,White Oak,1
+7,305,Loblolly Pine,7
+7,306,Loblolly Pine,7
+21,307,Sweetgum,4
+3,308,White Oak,1
+21,309,Sweetgum,4
+5,310,Tulip Poplar,3
+21,311,Sweetgum,4
+1,312,Oak Hickory,2
+5,313,Tulip Poplar,3
+7,314,Loblolly Pine,7
+3,315,White Oak,1
+5,316,Tulip Poplar,3
+1,317,Oak Hickory,2
+1,318,Oak Hickory,2
+1,319,Oak Hickory,2
+5,5156,Tulip Poplar,3
+5,5157,Tulip Poplar,3
+4,5159,Mixed,8
+7,5160,Loblolly Pine,7
+5,5239,Tulip Poplar,3
+5,5250,Tulip Poplar,3
