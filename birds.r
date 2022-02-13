@@ -43,4 +43,4 @@ group_size %>%
   geom_histogram() +
   ggtitle("Distribution of species group size") +
   xlab("Number of species") +
-  ylab("Frequency")
+  ylab("Frequency") 
